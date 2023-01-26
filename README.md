@@ -1,7 +1,7 @@
 # Link-Tracker
 ## Chrome extention to save links
 **This project build for learning purpose**</br>
-***How to set up***
+***How to set up***</br>
 -go to chrome://extensions/
 -click Load unpacked
 -select file then here we go!
