@@ -5,4 +5,4 @@
 *go to chrome://extensions/</br>
 *click Load unpacked</br>
 *select file then here we go!</br>
-![Screenshot (19)](https://user-images.githubusercontent.com/71097499/214741292-9bfc959d-658b-4e7f-8962-bb984c604aed.png)
+![Link Tracker](https://user-images.githubusercontent.com/71097499/214742582-e400e8df-6326-4acd-852a-53cd91ee16c9.png)
